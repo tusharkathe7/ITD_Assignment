@@ -4,11 +4,13 @@ Instructions Clone the Repository: Fork the provided GitHub repository and clone
 
 Generate Components: Use Angular CLI to generate the following components:
 
-employee
+Login
 
-user
+Register
 
-admin
+Forgot passward
+
+User
 
 Design Components: Implement the HTML and CSS for each component as described in the requirements.
 
